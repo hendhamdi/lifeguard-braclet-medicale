@@ -1,0 +1,11 @@
+Model Information:
+* title:	Character Accessory Watch
+* source:	https://sketchfab.com/3d-models/character-accessory-watch-d2a883db37184592b5ea0ce4cbd2a286
+* author:	Socksthecat (https://sketchfab.com/Socksthecat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Character Accessory Watch" (https://sketchfab.com/3d-models/character-accessory-watch-d2a883db37184592b5ea0ce4cbd2a286) by Socksthecat (https://sketchfab.com/Socksthecat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
